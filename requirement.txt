@@ -1,0 +1,9 @@
+streamlit
+pandas
+spotipy
+numpy
+matplotlib
+seaborn
+PIL
+requests
+base64
